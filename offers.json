@@ -1,0 +1,8 @@
+{
+  "_help": "Edit the offers list below. Each offer: title, text, optional image (https URL), optional start/end (YYYY-MM-DD), optional active (false hides it). The TV picks up changes within ~15 minutes.",
+  "offers": [
+    {"title": "Free Tesla Battery Health Report", "text": "Every Tesla on our lot comes with a battery health score. Ask our team to see it.", "image": "", "start": "", "end": "", "active": true},
+    {"title": "Financing Available", "text": "Competitive rates for all credit types. Get pre-approved in minutes - just ask at the desk.", "image": "", "start": "", "end": "", "active": true},
+    {"title": "We Buy Cars", "text": "Get a cash offer on your current vehicle today, even if you don't buy from us.", "image": "", "start": "", "end": "", "active": true}
+  ]
+}
